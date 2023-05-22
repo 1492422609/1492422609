@@ -1,5 +1,7 @@
 <p align="center">
     <img width="140" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/50936451?s=400&u=cf63d6675f7fe76f25e8d44c0b254efa3334bd3b&v=4" > 
     <h2 align="center">昊 洋 の 世 界</h2>
-    <p align="center">:kissing_heart:前端修仙，法力无边</p>
+    <p align="center">:kissing_heart:前端修仙，法力无边:kissing_heart:</p>
 </p2>
+<h3 align="left">语言和工具：</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark .svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img来源=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> < href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs -original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/ > </a> </p>> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/ > </a> </p>
